@@ -64,6 +64,8 @@ Tailwind CSS / CSS
 
 Axios / Fetch API for movie data
 
+**NOTE:**If it say error at fetching means please refresh the website to work.
+
 **Why I Built It**
 
 To practice React, state management, API integration, and to showcase a functional and interactive frontend project for VibeCoding.
